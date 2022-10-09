@@ -3,3 +3,4 @@ FUSA is functin safety. I would collect some details and write my own learning n
 
 ** ISO26262
 ** IEC61508
+** IEC60730
