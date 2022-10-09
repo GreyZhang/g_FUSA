@@ -1,5 +1,5 @@
 * FUSA hacking.
-FUSA is functin safety. I would collect some details and write my own learning note here. Both ISO26262 and IEC61508 are included.
+FUSA is functin safety. I would collect some details and write my own learning note here. Both ISO26262 and IEC61508 are included. Yet, IEC60730 was added later before I found I can find some more useful information currently and they are some common skills for all platform.
 
 ** ISO26262
 ** IEC61508
