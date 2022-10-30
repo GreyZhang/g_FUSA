@@ -4,3 +4,4 @@ FUSA is functin safety. I would collect some details and write my own learning n
 ** ISO26262
 ** IEC61508
 ** IEC60730
+- [[https://blog.csdn.net/grey_csdn/article/details/127603954][1507_FUSA_单片机的安全测试有哪些常见的测试项以及CPU寄存器测试和PC计数器测试的简介]]
